@@ -8,4 +8,4 @@ ou
 ``` yarn ```
 
 # instrução
-seguir o seguinte tutorial da Rocketseat-2020 : [Setup para apps Node.js (TypeScript, ESLint, Jest, Babel) | Code/Drops #33] (https://www.youtube.com/watch?v=rCeGfFk-uCk)
+seguir o seguinte tutorial da Rocketseat-2020 : [Setup para apps Node.js (TypeScript, ESLint, Jest, Babel) | Code/Drops #33](https://www.youtube.com/watch?v=rCeGfFk-uCk)
